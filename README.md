@@ -22,4 +22,4 @@ There are three tiers (difficulties) of questions/challenges you can progress th
 --->
 
 ## No Plagiarism
-If you are having any trouble with a specific problem please use the CodeEasy Forum or Community Solution on the problem in question. Asking/posting questions and sparking up a conversation with somebody is much more impactful to your learning than copying code.
+If you are having any trouble with a specific problem please use the CodeEasy Forum or Community Solution on the problem in question. Asking/posting questions and sparking up a conversation with somebody is much more impactful to your learning than copying/pasting code.

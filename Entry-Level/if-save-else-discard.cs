@@ -1,3 +1,5 @@
+/*Write a program that saves the virus to the internal storage if it is not activated and if it costs more than 15. 
+Submit with not activated virus with cost 20.*/
 using System;
 namespace Booleans
 {
