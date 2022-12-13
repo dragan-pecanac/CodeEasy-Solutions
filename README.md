@@ -14,7 +14,7 @@ There are three tiers (difficulties) of questions/challenges you can progress th
 - Mid-Level
 
 ## World Leaderboard
-370th as of Dec. 13, 2022
+**370th** as of Dec. 13, 2022
 <!--- 
 ## List of Challenges 
 
