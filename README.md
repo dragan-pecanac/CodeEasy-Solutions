@@ -4,7 +4,7 @@ This GitHub repository contains the solutions to the challenges found on [CodeEa
 
 ## What is CodeEasy?
 
-CodeEasy is one of the most unique methods I've come across in teaching a programming language. Instead of learning C# via a Textbook or YouTube tutorial format with no meaningful connections between topics, it immerses you in a futuristic dystopian planet Earth where the survival of humanity depends on you learning C#! The best part about CodeEasy is the lack of "hand-holding" along the way. Although it's not necessarily LeetCode or CodeWars, it's one of the best stepping stones in getting the hang of C#.
+CodeEasy is one of the most unique methods I've come across in learning a programming language. Instead of learning C# via a Textbook or YouTube tutorial format with no meaningful connections between topics, it immerses you in a futuristic dystopian planet Earth where the survival of humanity depends on you learning C#! The best part about CodeEasy is the lack of "hand-holding" along the way. Although it's not necessarily LeetCode or CodeWars, it's one of the best stepping stones in getting the hang of C#.
 
 ## Tier System
 
